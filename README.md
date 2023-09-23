@@ -1,3 +1,5 @@
+知乎文章地址：https://zhuanlan.zhihu.com/p/645521540
+
 如果出现UnsafeHashMap报错，在manifest.json里手动添加
 
 ```
